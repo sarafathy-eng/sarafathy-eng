@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Sara Fathy El Gedawy</h1>
+<h1 align="center"> Hi, I'm Sara El Gedawy</h1>
 <h3 align="center"> Aspiring Data Engineer |  Python & SQL Enthusiast |  Data Storyteller</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sara-el-gedawy/">
@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarafathy-eng&show_icons=true&theme=dracula&hide_border=true&count_private=true" />

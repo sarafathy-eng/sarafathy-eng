@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Sara Fathy El Gedawy</h1>
-<h3 align="center"> Aspiring Data Engineer | Python & SQL Enthusiast | Data Storyteller</h3>
+<h3 align="center"> Aspiring Data Engineer |  Python & SQL Enthusiast |  Data Storyteller</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-success?style=for-the-badge" />
@@ -38,12 +38,12 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🐍 Going deeper in **Python** and **SQL** through daily hands-on practice
-- 🔀 Following the **Data with Baraa Data Engineering Roadmap 2026** (Python → SQL → Git/GitHub → tools & platforms)
-- 📈 **Data science with Pandas, NumPy & Matplotlib** in the GCI World 2026 course (University of Tokyo Weblab)
-- 🔜 Up next: **Airflow, Docker, and Spark**
+-  Going deeper in **Python** and **SQL** through daily hands-on practice
+-  Following the **Data with Baraa Data Engineering Roadmap 2026** (Python → SQL → Git/GitHub → tools & platforms)
+-  **Data science with Pandas, NumPy & Matplotlib** in the GCI World 2026 course (University of Tokyo Weblab)
+-  Up next: **Airflow, Docker, and Spark**
 
 <br>
 
@@ -71,11 +71,11 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarafathy-eng&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahafathy-eng&layout=compact&theme=dracula&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarafathy-eng&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sarahafathy-eng&theme=dracula&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sarafathy-eng&theme=dracula&hide_border=true" />
 </p>
 
 ---

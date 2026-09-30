@@ -17,6 +17,16 @@
 <br>
 
 ---
+---
+
+##  Featured Projects
+
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [**StatLab**](https://github.com/eshamsali/StatLab)  | Data processing, statistical analysis (T/Z/Chi-Square), and a disease-prediction model (95.4% accuracy). 2nd place among best projects. | Python · Flask · scikit-learn · Pandas |
+| [**UniSwap**](https://github.com/Luminary-Lab/UniSwap) | Project planning, frontend, and contributions to the dashboard and data storage of an academic exchange platform. | Node.js · Express · MySQL · JS |
+| [**CosmicTracker (DEPI capstone)**](https://github.com/M-a-z-e-n/DEPI-DE) | Data ingestion: Python scripts pulling 6 years of NASA NEO data into ADLS Gen2 for an Azure medallion pipeline. | Python · Azure · Synapse · Power BI |
+| [**Karate Pro System**](https://github.com/sarafathy-eng/karate-pro-system) | Club management system: attendance, subscriptions, WhatsApp, PDF export. | HTML · CSS · JS |
 
 ##  Tech Stack
 
